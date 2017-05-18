@@ -1,2 +1,2 @@
 # KenjiMatsudaRepository
-The is a test for repository of Kenji, by kenji, for kenji.
+The is a joke for repository of Kenji, by kenji, for kenji.
